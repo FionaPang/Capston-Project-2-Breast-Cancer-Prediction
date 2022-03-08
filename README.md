@@ -1,2 +1,2 @@
-# Capston-Project-2---Gene-mutaion-classification
- Capstone Project for Sringboard
+# Capston-Project-2--Breast Cancer prediction
+ Capstone Project for Springboard
